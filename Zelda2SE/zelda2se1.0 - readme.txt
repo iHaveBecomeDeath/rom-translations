@@ -9,6 +9,13 @@ Zelda 2 Swedish for NES
 1. Version History
 ==================
 
+v1.0 August 23 1999
+-------------------
+Yes! I realized that "W" was not used, and thus the last swedish character is now drawn 
+into the game. Finally. I also noticed that I had missed a word or two in the credits, and 
+now we are at version 1... enjoy!
+
+
 v0.9 August 17 1999
 -------------------
 Another letter, a little more and better translation. The credits are also translated now, 
@@ -24,6 +31,7 @@ is completely in swedish. Though only one of the specific swedish characters is 
 the text is fully readable and understandable (if you know swedish, of course). I have
 played through the entire game and talked to everyone, so no little glitches are left.
 
+
 v0.7b August 3 1999
 -------------------
 Only released to my beta testers (including me), it was translated in every place, 
@@ -32,7 +40,7 @@ except for the credits, and was not played through and bug-tested.
 
 2. The files
 ============
-The zip archive contains 2 files, the readme you are now reading, and "z2se09.ips", the
+The zip archive contains 2 files, the readme you are now reading, and "z2se1.ips", the
 actual patch file.
 
 
