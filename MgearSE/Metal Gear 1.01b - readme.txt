@@ -9,6 +9,11 @@ Metal Gear Swedish for NES
 1. Version History
 ==================
 
+v1.01b August 16 1999
+---------------------
+Minor corrections, like dots and commas in the wrong place.
+
+
 v1.0b August 11 1999
 --------------------
 First official release! All text translated. All Swedish characters exist. (Yay!)
@@ -29,7 +34,7 @@ begun.
 
 2. The files
 ============
-The zip archive contains 2 files, the readme you are now reading, and "mgse1b.ips", the
+The zip archive contains 2 files, the readme you are now reading, and "mgse101b.ips", the
 actual patch file.
 
 
