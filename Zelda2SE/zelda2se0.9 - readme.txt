@@ -9,6 +9,13 @@ Zelda 2 Swedish for NES
 1. Version History
 ==================
 
+v0.9 August 17 1999
+-------------------
+Another letter, a little more and better translation. The credits are also translated now, 
+and thanks to the new letter I fit in, it looks much, much better now. No glitches, no 
+nothing, just one character missing, replaced by "A", much better now than "AA" and "AE".
+
+
 v0.7 August 6 1999
 ------------------
 First official release of this patch, which translates the Zelda2.nes rom to swedish!
@@ -25,7 +32,7 @@ except for the credits, and was not played through and bug-tested.
 
 2. The files
 ============
-The zip archive contains 2 files, the readme you are now reading, and "z2se07.ips", the
+The zip archive contains 2 files, the readme you are now reading, and "z2se09.ips", the
 actual patch file.
 
 
