@@ -1,0 +1,53 @@
+Zero Wing Swedish for Mega Drive / Genesis
+===============================
+
+***************************
+*By MetalHead/Kalle Wallin*
+*   Aided by Bapple	  *
+***************************
+
+
+1. Version History
+==================
+
+v1.0 September 26 2002
+-------------------
+It's been a while since we released anything... 
+This one is a real work-over, though. Not being satisfied with redrawing a few characters in the font and translating the text (yes, it's as badly translated to Swedish as it ever was from Japanese to English), I have spent hours on end redrawing all graphical text that I could find (such as GAME OVER and CONGRATULATIONS!), and I think this is a really good one. Too bad that everyone doesn't understand Swedish, because there is some serious humour in the introduction. Well, well, have fun!
+
+
+2. The files
+============
+The zip archive contains 2 files, the readme you are now reading, and "ZeroWSE1.ips", the actual patch file.
+
+
+3. Usage
+=========
+In order to use this, you will need a ZEROWING SMD rom, which I will _not_ give to 
+you, even if I could, I would not, since it is (obviously) illegal to distribute roms. So don't bother me about that. Second, you will need an IPS patcher program, available at many places in many different flavors and colors, amongs others at our homepage, with the aid of which you will apply the patch file to an _english_ (perhaps Engrish then) Zerowing SMD-rom. This rom must not previously have been  patched or altered in any way, since the patch will probably not work then. Enjoy!
+
+
+4. Questions, comments or suggestions
+=====================================
+If you have anything constructive to say, if you like this translation, if you want to
+know what other translations/hacks I have done/am doing, or perhaps even can offer some help with a project - contact me at metalhead@metalproject.net.
+We also have a website, which thanks to Zoop of EmuCamp, is in a nice place. See bottom for adress. 
+(Note:I am in no way affiliated with SEGA or Toaplan).
+
+
+5. Thanks
+=========
+Thanks go out to all of the good emu sites out there (like Archaic Ruins, EmuCamp, 
+Retrogames, Zophar's Domain, Emulation.net and so on) for being there, and being really  nice guys. Special thanks to Zoop of EmuCamp for hosting our site. Also in graceful memory of the great, but now gone, emulation news service (www.emunews.net). Thanks to Toaplan, for making a decent shooter and not knowing English, and to SEGA for releasing it (at least in Europe).
+
+
+/MetalHead - on to the next game!
+(If you wonder what Bapple had to do with this release, he has been very helpful concering choice of words and with artistic input about redrawing the graphics).
+
+Copyright 2002
+Kalle Wallin (metalhead@metalproject.net)
+
+*****************************
+*The MetalHead Hacking Group*
+*http://www.emucamp.com/mhhg*
+*****************************
