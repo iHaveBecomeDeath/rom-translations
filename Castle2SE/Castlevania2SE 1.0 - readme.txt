@@ -9,6 +9,11 @@ Castlevania 2 Swedish for NES
 1. Version History
 ==================
 
+V 1.0 August 17 1999
+--------------------
+Yes! The final letter is available, as of today, and this translation is thus COMPLETE!
+
+
 V0.99 August 16 1999
 --------------------
 Whoa! Found the credits (for all three endings), translated them, mission accomplished. 
@@ -34,7 +39,7 @@ Beta testing needed.
 
 2. The files
 ============
-The zip archive contains 2 files, the readme you are now reading, and "cs2se099.ips", the
+The zip archive contains 2 files, the readme you are now reading, and "cst2se1.ips", the
 actual patch file.
 
 
