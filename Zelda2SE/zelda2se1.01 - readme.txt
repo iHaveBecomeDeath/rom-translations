@@ -9,6 +9,12 @@ Zelda 2 Swedish for NES
 1. Version History
 ==================
 
+v1.01 August 28 1999
+--------------------
+A slight mistake was discovered, a word that occurs in three places, but is rather visible, 
+had not been translated. Fixed.
+
+
 v1.0 August 23 1999
 -------------------
 Yes! I realized that "W" was not used, and thus the last swedish character is now drawn 
@@ -40,7 +46,7 @@ except for the credits, and was not played through and bug-tested.
 
 2. The files
 ============
-The zip archive contains 2 files, the readme you are now reading, and "z2se1.ips", the
+The zip archive contains 2 files, the readme you are now reading, and "z2se101.ips", the
 actual patch file.
 
 
