@@ -9,6 +9,13 @@ Legend of Zelda Swedish for NES
 1. Version History
 ==================
 
+v0.9 August 17 1999
+-------------------
+All swedish letters now available, title screen redrawn and text re-edited. I have left 
+the staff titles intact, and the piece "Look up the manual..." is rather hard to edit, 
+since it is all graphics, and I'm not quite sure which piece belongs where...
+
+
 v0.8 August 8 1999
 ------------------
 This is a a patch that will translate the whole Zelda.nes rom into swedish! This is the
@@ -29,7 +36,7 @@ reset the game.)
 
 2. The files
 ============
-The zip archive contains 2 files, the readme you are now reading, and "zeldse08.ips", the
+The zip archive contains 2 files, the readme you are now reading, and "zeldse09.ips", the
 actual patch file.
 
 
