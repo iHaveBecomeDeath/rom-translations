@@ -1,0 +1,74 @@
+# Metal Gear Swedish for NES
+
+*This was written a long time go, when we were a lot younger. The text is preserved for posterity and historical accuracy, not necessarily for it's inherent qualities.*
+
+**Readme.txt in a more presentable format** 
+
+*****************************
+* By RoboBengt/Johan Sånesson
+*****************************
+
+
+## 1. Version History
+
+### v1.01b August 16 1999
+Minor corrections, like dots and commas in the wrong place.
+
+
+### v1.0b August 11 1999
+First official release! All text translated. All Swedish characters exist. (Yay!)
+Initial beta testing complete, where a MAJOR error was discovered which crashed the whole 
+game!! With much help from MetalHead, the problem was solved, and beta testing continued. 
+A lot of minor errors fixed. Now the time has come for me to ask for your help. I need 
+someone, who understands Swedish to play through the game once more to check for errors. 
+
+
+
+### v0.7b August 10 1999
+Translation complete! Except for 1 minor place where some code was placed and 1 sentence 
+which I had a problem with, since I didn't know the context of the dialogue. Beta testing 
+begun.
+
+
+
+## 2. The files
+The zip archive contains 2 files, the readme you are now reading, and "mgse101b.ips", the
+actual patch file.
+
+
+## 3. Usage
+In order to use this, you will need a Metal Gear NES rom, which I will _not_ give to you,
+even if I could, I would not, since it is illegal to distribute roms. So don't bother
+me about that. Second, you will need an IPS patcher program, one can be found in the 
+download section of our page, with the aid of which you will apply the patch
+file to an _english_ Metal Gear NES rom. This rom must not previously have been patched 
+or altered in any way, since the patch will not work then.
+
+
+## 4. Questions, comments or suggestions
+If you have anything constructive to say, if you like this translation, if you want to
+know what other translations/hacks I have done/am doing, or perhaps even can offer some
+help with the bug-testing - contact me.
+We now have a webpage, and thanks to Zoop, at a nice place (see bottom for adress).
+(Note: I am in no way affiliated with NOA,NCL or KONAMI).
+
+
+## 5. Thanks
+Thanks go out to all of the good emu sites out there (like Archaic Ruins, EmuCamp, 
+Retrogames, Zophar's Domain, Emulation.net and so on) for being there, and being really 
+nice guys. Special thanks to Zoop of EmuCamp, for hosting our site. Also in graceful 
+memory of the great, but now gone, emulation news service (www.emunews.net).
+Also, thanks to MetalHead for teaching me what I know about translating, and for
+drinking beer with me without complaining. :)
+
+/RoboBengt
+
+
+
+Copyright 1999
+Johan Sånesson
+
+*****************************
+* The MetalHead Hacking Group
+* http://www.emucamp.com/mhhg
+*****************************
